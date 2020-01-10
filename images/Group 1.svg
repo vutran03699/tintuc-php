@@ -1,0 +1,19 @@
+<svg id="Group_1" data-name="Group 1" xmlns="http://www.w3.org/2000/svg" width="165" height="97.534" viewBox="0 0 165 97.534">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 58px;
+        font-family: Calistoga-Regular, Calistoga;
+        letter-spacing: 0.1em;
+      }
+
+      .cls-2 {
+        font-size: 26px;
+        font-family: LibreBaskerville-Regular, Libre Baskerville;
+        letter-spacing: 0.4em;
+      }
+    </style>
+  </defs>
+  <text id="TECH" class="cls-1" transform="translate(0 58)"><tspan x="0" y="0">TECH</tspan></text>
+  <text id="NEWS" class="cls-2" transform="translate(0 90.534)"><tspan x="0" y="0">NEWS</tspan></text>
+</svg>
